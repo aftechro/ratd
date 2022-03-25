@@ -1,4 +1,5 @@
 # ratd
+Remote Access Toolkit Daemon
 IT Asset Remote Management and Monitoring (RMM) platform
 
 # Release Plan
